@@ -1,2 +1,2 @@
 # StreamlitApp-Multiselection
- Simple Streamlit App with Multiselect Option
+ A Simple Streamlit App with Multiselection opetion
